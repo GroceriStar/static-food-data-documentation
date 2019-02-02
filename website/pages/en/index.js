@@ -128,30 +128,30 @@ const FeatureCallout = props => (
 
         <ul>
           <li>
-            <a href="/groceristar-fetch/docs/intro.html">Getting Started</a>
+            <a href="/static-food-data-documentation/docs/intro.html">Getting Started</a>
           </li>
           <li>
-            <a href="/groceristar-fetch/docs/chickenkyiv-project.html">ChickenKyiv</a>
+            <a href="/static-food-data-documentation/docs/chickenkyiv-project.html">ChickenKyiv</a>
           </li>
           <li>
-            <a href="/groceristar-fetch/docs/groceristar-project.html">Groceristar</a>
+            <a href="/static-food-data-documentation/docs/groceristar-project.html">Groceristar</a>
           </li>
           <li>
-            <a href="/groceristar-fetch/docs/mealcalendar-project.html">Meal Calendar</a>
+            <a href="/static-food-data-documentation/docs/mealcalendar-project.html">Meal Calendar</a>
           </li>
           <li>
-            <a href="/groceristar-fetch/docs/searchapi-project.html">Search API</a>
+            <a href="/static-food-data-documentation/docs/searchapi-project.html">Search API</a>
           </li>
           <li>
-            <a href="/groceristar-fetch/docs/searchform-project.html">Search Form</a>
+            <a href="/static-food-data-documentation/docs/searchform-project.html">Search Form</a>
           </li>
-          <li><a href="/groceristar-fetch/docs/GraphQL.html">GraphQL</a></li>
-          <li><a href="/groceristar-fetch/docs/Selector.html">Selector</a></li>
+          <li><a href="/static-food-data-documentation/docs/GraphQL.html">GraphQL</a></li>
+          <li><a href="/static-food-data-documentation/docs/Selector.html">Selector</a></li>
           <li>
-            <a href="/groceristar-fetch/docs/stretch-goals.html">Stretch goals</a>
+            <a href="/static-food-data-documentation/docs/stretch-goals.html">Stretch goals</a>
           </li>
           <li>
-            <a href="/groceristar-fetch/docs/tests.html">Tests</a>
+            <a href="/static-food-data-documentation/docs/tests.html">Tests</a>
           </li>
         </ul>
       </div>

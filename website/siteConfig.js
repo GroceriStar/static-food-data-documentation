@@ -27,10 +27,10 @@ const siteConfig = {
   //baseUrl: '/' /* base url for your project */,
   // For github.io type URLs, you would set the url and baseUrl like:
      url: 'https://groceristar.github.io',
-     baseUrl: '/groceristar-fetch/',
+     baseUrl: '/static-food-data-documentation/',
 
   // Used for publishing and more
-  projectName: 'groceristar-fetch',
+  projectName: 'static-food-data-documentation',
   organizationName: 'groceristar',
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
