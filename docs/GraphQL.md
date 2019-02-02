@@ -27,7 +27,10 @@ Result
 ...
 ]
 ```
-getDepartmentsGraphQLKey()
+```
+graphQL.getDepartmentsGraphQLKey()
+```
+
 Result
 ```
 [ { department_id: '43c59060-19ca-11e9-ba92-1de8759e63a0',
@@ -52,7 +55,10 @@ Result
     updated_at: 1547669212262 },
 
 ```
-```groceristar.getGroceryGraphQLKey()```
+```
+graphQL.getGroceryGraphQLKey()
+```
+
 Result
 ```
 [ { grocery_id: '75abb7b0-1a4e-11e9-b4c7-e1d68a07bcac',
@@ -86,7 +92,10 @@ Result
 ]
 ```
 ---
-`groceristar.getGroceryGraphQL()`
+```
+graphQL.getGroceryGraphQL()
+```
+
 Result
 ```
 [ { grocery_id: 1,
@@ -120,8 +129,13 @@ Result
 ]
 ```
 ---
-`groceristar.getIngredientsGraphQL()`
+
+```
+graphQL.getIngredientsGraphQL()
+```
+
 Result
+
 ```
 [ { ingredient_id: 1,
     favs: '',
@@ -163,7 +177,11 @@ Result
 ]
 ```
 ---
-`groceristar.getIngredientsGraphQLKey()`
+```
+graphQL.getIngredientsGraphQLKey()
+```
+
+Result
 ```
 [ { ingredient_id: '103a1670-1a57-11e9-af5d-63a3005c23d7',
     favs: '',
@@ -206,7 +224,10 @@ Result
 ```
 ---
 
-`groceristar.getUsersGraphQL()`
+```
+graphQL.getUsersGraphQL()
+```
+
 Result
 ```
 [ { userId: 1,
@@ -224,7 +245,11 @@ grocery_id: 1 }
 ]
 ```
 ---
-`groceristar.getUsersGraphQLKey()`
+```
+graphQL.getUsersGraphQLKey()
+```
+
+Result
 ```
 [ { userId: 'acc92b60-1a58-11e9-9637-39d66ad43fc6',
     favs: false,
@@ -238,5 +263,4 @@ grocery_id: 1 }
     favs: false,
     ingredient_id: 1,
     grocery_id: 1 } ]
-
-```
+```    
