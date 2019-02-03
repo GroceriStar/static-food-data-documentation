@@ -1,1 +1,0 @@
-# static-food-data-documentation
