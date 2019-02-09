@@ -1,16 +1,10 @@
 {
   "docs": {
-  " ":["intro"],
-  "Chicken Kyiv":["chickenkyiv-project"],
-  "GroceriStar project":["groceristar-project"],
-  "Meal Calendar project":["mealcalendar-project"],
-  "SearchAPI project":["searchapi-project"],
-  "Search Form project":["searchform-project"],
-  "GraphQL":["GraphQL"],
-  "Selector":["Selector"],
-  "Stretch Goals":["stretch-goals"],
-  "  ":["tests"]
-
+    "Docusaurus": ["doc1"],
+    "First Category": ["doc2"],
+    "Second Category": ["doc3"]
+  },
+  "docs-other": {
+    "First Category": ["doc4", "doc5"]
   }
-
 }
