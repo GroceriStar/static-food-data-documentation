@@ -16,7 +16,9 @@ https://travis-ci.org/GroceriStar/static-food-data-documentation/settings
 
 ---------------
 - [ ] add link to git or to Medium article - Food Machine Learning collection
+
 - [ ] Create an OSS section, about what we're coding
+
 Docs        Set of major projects
 Fetch       Recipe Api
 Plans       Grocery list api
