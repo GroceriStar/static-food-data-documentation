@@ -186,26 +186,3 @@ const FeatureCallout2 = props => (
     </div>
   </div>
 );
-
-
-class Index extends React.Component {
-  render() {
-    let language = this.props.language || '';
-
-    return (
-      <div>
-        <HomeSplash language={language} />
-        <div className="mainContainer">
-
-          <Container padding={['bottom']}>
-            <MainPage />
-            <FeatureCallout />
-          </Container>
-
-        </div>
-      </div>
-    );
-  }
-}
-
-module.exports = Index;
