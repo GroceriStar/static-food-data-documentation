@@ -1,5 +1,7 @@
 # static-food-data-documentation
 
+сontent for https://groceristar.github.io/static-food-data-documentation/
+
 GIT_USER=atherdon \
   CURRENT_BRANCH=master \
   USE_SSH=true \
@@ -41,6 +43,22 @@ Fetch       Recipe Api
 Plans       Grocery list api
 etc
 
+
+- [ ] Improve readme
+- [ ] explain how to use playground for testing purposes
+
+#### [documentation][tasks]
+
+ 3) separate methods into different files, stored in one folder and connected to the project page
+details upon request...
+
+---
+
+4) we can use https://glorious.codes/demo?ref=producthunt for creating more interactive and cool looking code samples.
+
+---
+
+5) The previous Gif that tried to explain how to use our plugin was bad. we need to have a new one...
 
 Product Hunt text
 
