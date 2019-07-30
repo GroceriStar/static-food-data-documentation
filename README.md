@@ -14,7 +14,24 @@ https://stackoverflow.com/questions/11403407/git-asks-for-username-every-time-i-
 https://travis-ci.org/GroceriStar/static-food-data-documentation/settings
 
 
+
+https://github.com/GroceriStar/creative/blob/master/illustrations/Vegetables_Banana.png
+https://github.com/GroceriStar/creative/blob/master/illustrations/Vegetables_Orange.png
+https://github.com/GroceriStar/creative/blob/master/illustrations/Vegetables_Stawberry.png
+https://github.com/GroceriStar/creative/blob/master/illustrations/Vegetables_Tomato.png
+
+https://github.com/GroceriStar/creative/tree/master/icons
+
+https://github.com/GroceriStar/creative/tree/master/website-illustrations
+
+
+<!--
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/simple-git-flow.png) -->
+
+
 ---------------
+
+
 - [ ] add link to git or to Medium article - Food Machine Learning collection
 
 - [ ] Create an OSS section, about what we're coding
