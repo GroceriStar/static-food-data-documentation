@@ -57,7 +57,7 @@ We decided that in March we'll collaborate and launch something together.
 Nowadays he creates a new sandbox repository. He testing there some new functionality.
 I get a notification from github about his activity. I'm curious, so I take a look at his code. I figure out that he spend at least 2-4 hours of his time, in order to find a data, create a file, where he kept an array with static ingredients. I was like: "Damn! WTF! I have that data or data with very similar structure. Why he don't asked me about it? I'm definately want to help him and will be happy to share that data"
 
-he faced the same problem that i have 2 years ago with recipe-app and recipe-server. We both don't have a real data to test our projects with.
+He faced the same problem that i have 2 years ago with recipe-app and recipe-server. We both don't have a real data to test our projects with.
 
 I think this is a very common problem. A lot of people facing the same issues and other people has similar datasets and can share it too. Also, you can just dump a big archive in people faces and  - 'this is what i have - check it yourself'. You also need to teach people how this data can be used. It can save time and i decide that i should wrap my data into some holdays packaging paper.
 
